@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/circlebackground.xml" value="0.75" />
+        <entry key="app/src/main/res/drawable/circlegreend.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/circlepink.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/circleyellow.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_baseline_attach_file_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_baseline_signal_cellular_alt_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable/ic_baseline_watch_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/layout/activity_attach.xml" value="0.16271929824561404" />
+        <entry key="app/src/main/res/layout/activity_bank.xml" value="0.16271929824561404" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_wifi.xml" value="0.16271929824561404" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
